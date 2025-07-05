@@ -1,0 +1,8 @@
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\bin\Debug\C#-3Horas.exe.config
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\bin\Debug\C#-3Horas.exe
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\bin\Debug\C#-3Horas.pdb
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\obj\Debug\C#-3Horas.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\obj\Debug\C#-3Horas.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\obj\Debug\C#-3Horas.exe
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\obj\Debug\C#-3Horas.pdb
+C:\Users\Levi\source\repos\C#-3Horas\C#-3Horas\obj\Debug\C#-3Horas.exe.config
